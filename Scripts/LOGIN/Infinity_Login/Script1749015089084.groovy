@@ -22,5 +22,5 @@ WebUI.setText(findTestObject('Object Repository/Infinity_Login/txt_Username_Infi
 WebUI.setEncryptedText(findTestObject('Object Repository/Infinity_Login/txt_Password_Infinity'), GlobalVariable.Infinty_Password)
 
 WebUI.click(findTestObject('Object Repository/Infinity_Login/btn_Login_Infinity'))
-WebUI.click('buttonnn')
+
 
